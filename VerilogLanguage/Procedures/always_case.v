@@ -19,5 +19,5 @@ module top_module (
       default: out=4'd0;    
     endcase
   end
-  
+
 endmodule

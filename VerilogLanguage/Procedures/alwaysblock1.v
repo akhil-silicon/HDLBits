@@ -9,7 +9,5 @@ module top_module(
   always@(*) begin
     out_alwaysblock=a&b;
   end
-
-
   
 endmodule
